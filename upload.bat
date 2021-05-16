@@ -1,3 +1,3 @@
 git add --all
-git commit -m "add domain name in ReadMe.md"
-git push -u origin master
+git commit -m "update cloud project index.vue"
+git push -u origin main
